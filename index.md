@@ -1,10 +1,10 @@
 ---
-title: Welcome to the Data for Change Network
+title: About
 layout: default
 filename: index.md
 --- 
 
-## Welcome to GitHub Pages
+## About
 
 You can use the [editor on GitHub](https://github.com/dataforchange/dataforchange.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
