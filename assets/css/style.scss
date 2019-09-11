@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+header, #main-content h2, #main-content h3 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+}
