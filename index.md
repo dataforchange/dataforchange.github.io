@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-filename: index.md
+filename: index
 --- 
 
 ## About
