@@ -1,5 +1,5 @@
 ---
-title: Project Proposal
+title: Propose a Project
 layout: default
 filename: project-proposal
 --- 
