@@ -1,7 +1,7 @@
 ---
 title: Project Proposal
 layout: default
-filename: project-proposal.md
+filename: project-proposal
 --- 
 
 ## Project Proposal
