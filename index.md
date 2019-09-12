@@ -1,5 +1,5 @@
 ---
-title: About
+title: Data for Change Network
 layout: default
 filename: index
 --- 
