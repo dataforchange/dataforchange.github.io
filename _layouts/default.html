@@ -24,10 +24,16 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="index" class="btn">About</a>
+      
+      {% if page.path == 'index' %}
+        <a href="index" class="btn">About</a>
+      {% else %}
+        <a href="index" class="btn btn-active">About</a>
+      {% endif %}
       <a href="project-proposal" class="btn">Propose a Project</a>
       <a href="volunteer-signup" class="btn">Signup to Volunteer</a>
       <a href="partners" class="btn">Partners</a>
+      
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
