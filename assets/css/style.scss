@@ -2,27 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-header, #main-content h2, #main-content h3 {
-    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-}
-
-@media only screen and (max-width: 959px) and (min-width: 768px) {
-    header h1, header h2 {
-        width: 460px;
-    }
-}
-
-@media only screen and (max-width: 959px) and (min-width: 768px) {
-    header h2 {
-        font-size: 26px;
-    }
-}
-
-a.button {
-    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-}
-
-aside a.button {
-    font-size: 18px;
-}
