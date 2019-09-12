@@ -31,9 +31,24 @@
       {% else %}
         <a href="index" class="btn">About</a>
       {% endif %}
-      <a href="project-proposal" class="btn">Propose a Project</a>
-      <a href="volunteer-signup" class="btn">Signup to Volunteer</a>
-      <a href="partners" class="btn">Partners</a>
+      
+      {% if page.path == 'project-proposal.md' %}
+        <a href="project-proposal" class="btn btn-active">Propose a Project</a>
+      {% else %}
+        <a href="project-proposal" class="btn">Propose a Project</a>
+      {% endif %}
+      
+      {% if page.path == 'volunteer-signup.md' %}
+        <a href="volunteer-signup" class="btn btn-active">Signup to Volunteer</a>
+      {% else %}
+        <a href="volunteer-signup" class="btn">Signup to Volunteer</a>
+      {% endif %}
+      
+      {% if page.path == 'partners.md' %}
+        <a href="partners" class="btn btn-active">Partners</a>
+      {% else %}
+        <a href="partners" class="btn">Partners</a>
+      {% endif %}
       
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
