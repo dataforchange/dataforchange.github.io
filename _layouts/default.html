@@ -26,10 +26,10 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
       <a href="http://www.google.com">{{ page.path }}</a>
-      {% if page.path == 'index' %}
-        <a href="index" class="btn">About</a>
-      {% else %}
+      {% if page.path == 'index.md' %}
         <a href="index" class="btn btn-active">About</a>
+      {% else %}
+        <a href="index" class="btn">About</a>
       {% endif %}
       <a href="project-proposal" class="btn">Propose a Project</a>
       <a href="volunteer-signup" class="btn">Signup to Volunteer</a>
