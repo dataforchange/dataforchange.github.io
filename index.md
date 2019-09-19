@@ -9,9 +9,6 @@ filename: index
 - Pair social sector organizations with volunteer community data professionals
 - Provide organizations with a space to request help with their data-driven decision making
 
-## What we offer: 
-- Opportunities for collaboration & problem solving by providing technical assistance to Colorado’s social sector
-
 ## Our goals: 
 - Recruit organizations who are interested in better leveraging data in their organization operations and service delivery
 - Create a network of data experts that can be mobilized to help social sector organizations answer specific questions
