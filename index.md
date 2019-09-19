@@ -4,40 +4,18 @@ layout: default
 filename: index
 --- 
 
-## About
+## What We Do: 
+- Data for Change brings together the region’s data community to support organizations working toward data-driven decision making. 
+- Pair social sector organizations with volunteer community data professionals
+- Provide organizations with a space to request help with their data-driven decision making
 
-You can use the [editor on GitHub](https://github.com/dataforchange/dataforchange.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What we offer: 
+- Opportunities for collaboration & problem solving by providing technical assistance to Colorado’s social sector
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dataforchange/dataforchange.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Our goals: 
+- Recruit organizations who are interested in better leveraging data in their organization operations and service delivery
+- Create a network of data experts that can be mobilized to help social sector organizations answer specific questions
+- Identify and share best practices in data-driven decision making
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For any questions please [reach out to](https://github.com/contact).
