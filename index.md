@@ -15,4 +15,4 @@ filename: index
 - Identify and share best practices in data-driven decision making
 
 ### Support or Contact
-For any questions please [reach out to data-for-change-network@googlegroups.com](data-for-change-network@googlegroups.com).
+For any questions please [reach out to data-for-change-network@googlegroups.com](mailto:data-for-change-network@googlegroups.com).
